@@ -1,0 +1,298 @@
+--by TypicalBacon go sub to him
+https://www.youtube.com/channel/UCmI7Ir4F-vjqL2PTIt5UC3A--
+--Five Nights at Freddy's 1 Song - The Living Tombstone
+
+while wait () do
+
+--Verse 1
+local A_1 = 
+"We're waiting every night to finally roam and invite."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+ 
+local A_1 = 
+"Newcomers to play with us."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"For many years we've been all alone."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+ 
+local A_1 = 
+"We're forced to be still and play the same songs we've known since that day, An impostor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"took our life away"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Now we're stuck here to decay."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(5)
+ 
+local A_1 = 
+"Please let us get in!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Don't lock us away!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"We're not like what you're thinking."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)wait(3)
+ 
+local A_1 = 
+"We're poor little souls, who have lost all control and we're forced here to take that role."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"We've been all alone stuck in our little zone since 1987."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Join us, be our friend or just be stuck and defend, after all you only got."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+--Chorus
+
+wait(3)
+ 
+local A_1 = 
+"Five Nights at Freddy's."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Is this where you want to be?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"I just don't get it. Why do you want to stay?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)wait(3)
+ 
+local A_1 = 
+"Five Nights at Freddy's."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Is this where you want to be?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"I just don't get it. Why do you want to stay?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+
+wait(3)
+ 
+local A_1 = 
+"Five Nights at Freddy's."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+--Verse 2
+
+wait(3)
+
+ local A_1 = 
+"We're really quite surprised, we get to see you another night. You should have looked for another job, you should have said to this place good-bye."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"It's like there's so much more. Maybe you've been in this place before."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"We remember a face like yours. You seem acquainted with those doors."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+--hook
+
+wait(3)
+
+ local A_1 = 
+"Please let us get in!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Don't lock us away!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"We're not like what you're thinking."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"We're poor little souls, who have lost all control and we're forced here to take that role."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"We've been all alone stuck in our little zone since 1987."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Join us, be our friend or just be stuck and defend, after all you only got."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+--Chorus
+
+wait(3)
+
+ local A_1 = 
+"Five Nights at Freddy's."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Is this where you want to be?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+ 
+local A_1 = 
+"I just don't get it. Why do you want to stay?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Five Nights at Freddy's."
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+
+ local A_1 = 
+"Is this where you want to be?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait(3)
+ 
+local A_1 = 
+"I just don't get it. Why do you want to stay?"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+
+wait(3)
+ 
+local A_1 = 
+"Made by TypicalBacon"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+
+wait(3)
+ 
+local A_1 = 
+"Go sub to TypicalBacon"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+wait (10)
+end
