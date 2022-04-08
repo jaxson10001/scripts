@@ -3,7 +3,7 @@
 
 while wait () do
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "Your faint voice that brushes past me"
@@ -11,7 +11,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "Please call my name just one more time"
@@ -19,7 +19,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "Though I’m standing under the frozen sunset,"
@@ -35,7 +35,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "Still With You"
@@ -43,7 +43,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "In the dark room without a single lighting"
@@ -51,7 +51,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "Though I shouldn’t be used to it,"
@@ -59,7 +59,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "it feels familiar again"
@@ -67,7 +67,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "This subtle noise from the air conditioner"
@@ -82,7 +82,7 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "Laughing together, crying together"
@@ -96,66 +96,59 @@ local A_1 =
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "perhaps they were everything to me"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "When would it be"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "When I meet you again,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I’ll look into your eyes and tell you"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "“I’ve missed you”"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "In the memories of entrancing moments,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "even if I dance alone, it still rains"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "When this fog gets lifted up,"
-local A_2 = "All"
-local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-Event:FireServer(A_1, A_2)
-wait(3)
- 
-local A_1 = 
-""
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
@@ -166,42 +159,42 @@ local A_1 =
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Hold me in your arms then"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Because that moon looked lonely"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Because it looked like it’s crying bright in the night sky"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Knowing that the morning would come sometime,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I still wanted to stay in your sky like a star"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "That day, that moment,"
@@ -209,126 +202,126 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-wait(3)
+wait(5)
  
 local A_1 = 
 "if I had known that if it would be like this,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I would’ve kept more of them in my memories"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "When would it be"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "When I meet you again,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I’ll look into your eyes and tell you"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "“I’ve missed you”"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "In the memories of entrancing moments,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "even if I dance alone, it still rains"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "When this fog gets lifted up,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I will run to you on my wet feet"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Hold me then"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Behind your faint smile looking at me,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I’d like to paint a beautiful purple color"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Even if our steps might be in different frequencies,"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "I’d like to walk on this path with you"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Still With You"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "By TypicalBacon"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
-wait(3)
+wait(5)
  
 local A_1 = 
 "Go sub to him"
