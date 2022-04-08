@@ -1,0 +1,748 @@
+--by TypicalBacon go sub to him
+https://www.youtube.com/channel/UCmI7Ir4F-vjqL2PTIt5UC3A--
+
+while wait () do
+
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Now my day’s on cruise control"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+""
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got reese’s puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"And just like that I’m on a roll"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Peanut butter chocolate flavor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"In the am, it’s the flavor I savor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait (3)
+wait(3)
+ 
+local A_1 = 
+"Peanut butter and chocolate too"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"You know how I do, That’s what I wake up to"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"My Reese’s Puffs inspired this rhyme"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"That peanut butter chocolate combination’s on time"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(‘Cause uptown funk gonna give it to ya)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Saturday night and we in the spot)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+""
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Now my day’s on cruise control"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait (3)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"And just like that I’m on a roll"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Peanut butter chocolate flavor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"In the am, it’s the flavor I savor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Peanut butter and chocolate too"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"You know how I do, That’s what I wake up to"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"My Reese’s Puffs inspired this rhyme"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"That peanut butter chocolate combination’s on time"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait (3)
+wait(3)
+ 
+local A_1 = 
+"Now my day’s on cruise control"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"And just like that I’m on a roll"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs! (Eat ’em up, eat ’em up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(‘Cause uptown funk gonna give it to ya)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Saturday night and we in the spot)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Now my day’s on cruise control"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait (3)
+wait(3)
+ 
+local A_1 = 
+"I got Reese’s Puffs in my bowl"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"(Wow)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"And just like that I’m on a roll"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Peanut butter chocolate flavor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"In the am, it’s the flavor I savor"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Peanut butter and chocolate too"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"You know how I do, That’s what I wake up to"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"My Reese’s Puffs inspired this rhyme"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"That peanut butter chocolate combination’s on time"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Eat ’em up, Eat ’em up, Eat ’em up, Eat ’em up!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait (3)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up (Uptown funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Eat ’em up, Eat ’em up (Up-town funk you up)"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Reese’s Puffs, Reese’s Puffs!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"By Typical Bacon"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+ 
+local A_1 = 
+"Go sub to him"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+wait(3)
+
+end
